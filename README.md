@@ -10,5 +10,6 @@
 		</font>
 	</center>
 	<p>制作中...</p>
+	<p>Welcome!!!</p>
 </body>
 </html>
